@@ -6,12 +6,12 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {VAJIRA-MD=DNtmTY4B#yA-0Ed_zN8Ey35ZxarNcHsR2b338OkLF2_ic2cjtpCk
+    "SESSION_ID": {DNtmTY4B#yA-0Ed_zN8Ey35ZxarNcHsR2b338OkLF2_ic2cjtpCk
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "put session id here"
         },
-    "COMMAND_TYPE": {.menu
+    "COMMAND_TYPE": {buttonoff
             "description": "Put here (button or nonbutton) to change bot command mode",
             "required": true,
             "value": "button"
