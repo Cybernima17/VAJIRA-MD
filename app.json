@@ -6,17 +6,17 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {VAJIRA-MD=DNtmTY4B#yA-0Ed_zN8Ey35ZxarNcHsR2b338OkLF2_ic2cjtpCk
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": "put session id here"
         },
-    "COMMAND_TYPE": {
+    "COMMAND_TYPE": {.menu
             "description": "Put here (button or nonbutton) to change bot command mode",
             "required": true,
             "value": "button"
         },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {94769268470
             "description": "Put here your number without +",
             "required": true,
             "value": "947xxxxxxxx"
